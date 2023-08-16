@@ -1,5 +1,15 @@
-### Hi there 👋
+Hello, I'm Adam.<br/>
+I'm interested in creating browser games and applications and I'm ready to learn new technologies because I like challenges.
 
+Technologies: </br>
+<ul>
+<li>React</li>
+<li>JavaScript</li>
+<li>TypeScript</li>
+  </ul>
+
+  Contact:
+  adam.a.stach@gmail.com
 <!--
 **stach231/stach231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
